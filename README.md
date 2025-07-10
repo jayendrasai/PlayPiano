@@ -1,6 +1,10 @@
 Piano Web Application
+
 Overview
+
 This project is an interactive web-based piano that allows users to play musical notes by clicking on virtual piano keys or using their keyboard. The application features a responsive design, volume control, and an option to show or hide key labels, providing an engaging and customizable user experience.
+
+
 Features
 
 Virtual Piano Keyboard: A graphical piano interface with white and black keys representing musical notes (C4 to E5).
@@ -35,8 +39,6 @@ Navigate to the Project Directory:cd <repository-name>
 Serve the Application:
 Use a local web server (e.g., Live Server in VS Code, or Python's http.server):python -m http.server 8000
 
-
-Open a browser and navigate to http://localhost:8000.
 
 
 Play the Piano:
